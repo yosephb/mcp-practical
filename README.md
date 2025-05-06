@@ -346,4 +346,11 @@ Resource content:
 }
 
 ```
+![mcpinspector](https://github.com/user-attachments/assets/521a2697-7344-42ca-aa34-3e851813dbc3)
+
+![assistantterminal](https://github.com/user-attachments/assets/0507bae7-0d97-481f-b65b-a9f8e3511518)
+
+#### Connect
+
+• [LinkedIn: Yoseph Lemma](https://www.linkedin.com/in/yberhanu/)  
 
