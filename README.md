@@ -3,7 +3,7 @@
 A practical demonstration of the Model Control Protocol (MCP) for building an AI powered  educational system 
 
 
-## Understanding MCP
+
 
 ### The Problem MCP Solves
 
