@@ -31,7 +31,7 @@ MCP enables:
 
 This project demonstrates a practical approach to MCP on a real world project:
 
-- We will be working on an AI powered Tutor app using llms and the  MCP protocol.The project is trimmed down  to a level just enough to show case the benefits and capabilities of the this protocol. My primary objective is go beyond a POC and have a realworld implementation to showcase the benefits and capabilities of this protocol.
+- We will be working on an AI powered Tutor app using llms and the  MCP protocol.The project is trimmed down  to a level just enough to show case the benefits and capabilities of the this protocol. My primary objective is go beyond a POC and have a realworld implementation.
 
 
 
@@ -151,12 +151,6 @@ python mcptutor/mcpserver.py
 I
 #### Why SSE Transport?
 MCP supports various transports, but Server-Sent Events (SSE) offers several advantages:
-┌─────────────┐         ┌───────────────┐         ┌─────────────┐
-│             │         │               │         │             │
-│  Assistant  │ ◄─────► │  MCP Client   │ ◄─────► │  MCP Server │
-│             │         │               │         │             │
-└─────────────┘         └───────────────┘         └─────────────┘
-                                            SSE
 
 1. **Independent Deployment**: MCP server can run as a separate service
 2. **Horizontal Scaling:**: Multiple server instances behind load balancers
