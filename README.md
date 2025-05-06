@@ -1,4 +1,4 @@
-# Building with Model Control Protocol (MCP): LLM powered Tutor app
+# Building with Model Context Protocol (MCP): LLM powered Tutor app
 
 A practical demonstration of the Model Control Protocol (MCP) for building an AI powered  educational system 
 
